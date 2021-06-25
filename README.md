@@ -4,7 +4,7 @@
 - 👀 I’m just looking for fun while coding.
 - 📫 Discord: Nyu!#0497
 
-- I am interested about the Java Discord API to develope some bot for friends (https://github.com/DV8FromTheWorld/JDA)
+- I am interested about the Java Discord API to develope some bots for friends (https://github.com/DV8FromTheWorld/JDA)
 <!---
 `NyuWay/NyuWay` is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
